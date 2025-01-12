@@ -1,0 +1,238 @@
+[
+  {
+    "id": 57,
+    "fullName": "National Eye Bank Dr RP Centre",
+    "designation": "NA",
+    "department": "NA",
+    "contactList": "011-26593060, 011-26591919",
+    "fax": null,
+    "officialContactList": null,
+    "resedentialContactList": null,
+    "address": null,
+    "privacy": "PUBLIC",
+    "email": null,
+    "level": {
+      "id": 6,
+      "name": "Eye Banks",
+      "privacy": "PROTECTED",
+      "status": "ACTIVE",
+      "color": "#78583b",
+      "institute": "1",
+      "seqNo": "01",
+      "parent": {
+        "id": 5,
+        "name": "Utility Services",
+        "privacy": "PROTECTED",
+        "status": "ACTIVE",
+        "color": "#93794d",
+        "institute": "1",
+        "seqNo": "4",
+        "parent": {
+          "id": 1,
+          "name": "AIIMS Delhi Telephone Directory",
+          "privacy": "PUBLIC",
+          "status": "ACTIVE",
+          "color": null,
+          "institute": "1",
+          "seqNo": null,
+          "parent": null,
+          "childrens": [
+            {
+              "id": 2,
+              "name": "Frequently Used Nos",
+              "privacy": "PROTECTED",
+              "status": "ACTIVE",
+              "color": "#456e1c",
+              "institute": "1",
+              "seqNo": "1",
+              "parent": 1,
+              "childrens": []
+            },
+            {
+              "id": 3,
+              "name": "Important Institutions",
+              "privacy": "PROTECTED",
+              "status": "ACTIVE",
+              "color": "#d5d385",
+              "institute": "1",
+              "seqNo": "2",
+              "parent": 1,
+              "childrens": []
+            },
+            {
+              "id": 4,
+              "name": "Govt Hospitals in Delhi and NCR",
+              "privacy": "PROTECTED",
+              "status": "ACTIVE",
+              "color": "#559eec",
+              "institute": "1",
+              "seqNo": "3",
+              "parent": 1,
+              "childrens": []
+            },
+            5
+          ]
+        },
+        "childrens": [
+          6,
+          {
+            "id": 7,
+            "name": "Indian Airlines",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#8f7d56",
+            "institute": "1",
+            "seqNo": "02",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 8,
+            "name": "Air India",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#90844c",
+            "institute": "1",
+            "seqNo": "03",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 9,
+            "name": "Railway Enquires",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#b6a463",
+            "institute": "1",
+            "seqNo": "04",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 10,
+            "name": "Roadways (ISBT)",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#afb07d",
+            "institute": "1",
+            "seqNo": "05",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 11,
+            "name": "Police",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#827d59",
+            "institute": "1",
+            "seqNo": "06",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 12,
+            "name": "Police Stations",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#7a7243",
+            "institute": "1",
+            "seqNo": "07",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 13,
+            "name": "MTNL",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#a68e59",
+            "institute": "1",
+            "seqNo": "08",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 14,
+            "name": "Important No",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#827d45",
+            "institute": "1",
+            "seqNo": "09",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 15,
+            "name": "Municipal Services",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#9c8511",
+            "institute": "1",
+            "seqNo": "10",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 16,
+            "name": "Electricity",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#a98728",
+            "institute": "1",
+            "seqNo": "11",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 17,
+            "name": "AIIMS Helplines",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#88783f",
+            "institute": "1",
+            "seqNo": "12",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 18,
+            "name": "Organ Retrieval Banking Organization (ORBO)",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#bba454",
+            "institute": "1",
+            "seqNo": "13",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 19,
+            "name": "Poison Information Centre",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#8b7e27",
+            "institute": "1",
+            "seqNo": "14",
+            "parent": 5,
+            "childrens": []
+          },
+          {
+            "id": 20,
+            "name": "Donation (National Eye Bank)",
+            "privacy": "PROTECTED",
+            "status": "ACTIVE",
+            "color": "#917a3b",
+            "institute": "1",
+            "seqNo": "15",
+            "parent": 5,
+            "childrens": []
+          }
+        ]
+      },
+      "childrens": []
+    },
+    "seqNo": "01"
+  }
+]
